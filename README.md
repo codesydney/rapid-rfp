@@ -2,4 +2,4 @@
 
 ## High Level Diagram
 
-<img width="690" alt="Screenshot 2025-02-09 at 5 38 10 am" src="https://github.com/user-attachments/assets/18da7acd-35f7-4ae0-a141-28ddbb4ce2ee" />
+<img width="966" alt="Screenshot 2025-02-22 at 4 02 15 pm" src="https://github.com/user-attachments/assets/971723cf-144f-4655-8f9d-1b3c11241fa6" />
