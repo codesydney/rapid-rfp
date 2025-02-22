@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Local vector
+rfp_vector_store
+
 # Data
 *.db
 *.csv
